@@ -1,0 +1,2 @@
+cmd < command.txt
+pause
